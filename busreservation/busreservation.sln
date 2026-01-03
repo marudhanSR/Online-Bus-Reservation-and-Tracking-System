@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "busreservation", ".", "{FE558479-0AB6-4AE2-AA3D-8C231EB5DDA3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/busreservation"
+		Debug.AspNetCompiler.PhysicalPath = "D:\busreservation\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\busreservation\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/busreservation"
+		Release.AspNetCompiler.PhysicalPath = "D:\busreservation\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\busreservation\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49168"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE558479-0AB6-4AE2-AA3D-8C231EB5DDA3}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FE558479-0AB6-4AE2-AA3D-8C231EB5DDA3}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
